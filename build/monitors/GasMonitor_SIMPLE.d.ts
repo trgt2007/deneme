@@ -1,0 +1,1 @@
+//# sourceMappingURL=GasMonitor_SIMPLE.d.ts.map

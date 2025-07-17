@@ -1,0 +1,8 @@
+2025-07-17 12:17:18.884 [INFO]: Test message {
+  "timestamp": 1752743838870,
+  "correlationId": "corr_1752743838870_vjwvamnxv"
+}
+2025-07-17 12:27:08.070 [INFO]: Test mesajı - Logger çalışıyor! 🎉 {
+  "timestamp": 1752744428059,
+  "correlationId": "corr_1752744428059_fra773q58"
+}
